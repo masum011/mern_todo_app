@@ -21,12 +21,12 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 - https://github.com/masum011/mern_todo_app.git
+   
 ## Client
-
-  npm install
-  npm start
+- npm install
+- npm start
 
 ## Server
-
-  npm install
-  node ./app.js
+- Replace mongodb atlas url (database)
+- npm install
+- node ./app.js
